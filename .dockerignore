@@ -1,0 +1,10 @@
+node_modules
+dist
+.env
+.git
+.firebase
+functions/node_modules
+Dockerfile
+nginx.conf
+.dockerignore
+.github
