@@ -5,6 +5,5 @@ dist
 .firebase
 functions/node_modules
 Dockerfile
-nginx.conf
 .dockerignore
 .github
